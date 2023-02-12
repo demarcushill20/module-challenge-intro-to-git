@@ -11,7 +11,7 @@ Branches allow you to isolate development work from the main codebase. You can m
 4. What is the purpose of a Pull Request?
 It's a way to submit changes you've made in a branch to a main branch (often called "master") for review and potential merging.
 5. What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
-To switch between branches in Git, you can use the "git checkout" command followed by the name of the branch you want to switch to
+To switch between branches in Git, you can use the "git checkout" command followed by the name of the branch you want to switch to.
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
 git fetch: This command downloads new data from a remote repository, but it doesn't automatically merge the changes into your local repository. Instead, it fetches all the changes and stores them in your local repository, allowing you to review the changes and manually merge them into your local branches using the git merge command.
 
