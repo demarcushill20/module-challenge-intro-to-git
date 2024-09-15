@@ -1,0 +1,242 @@
+[33mcommit e0ddf1b368965635a8fd4c190b539499e3416a8f[m[33m ([m[1;36mHEAD -> [m[1;32mDemarcus-Hill[m[33m)[m
+Author: Demarcus Hill <demarcushill20@gmail.com>
+Date:   Sun Feb 12 11:19:26 2023 -0600
+
+    answered all the questions
+
+[33mcommit 7e7ecb5509e3f69ed49677cd805b7c695daac330[m[33m ([m[1;31morigin/Demarcus-Hill[m[33m)[m
+Author: Demarcus Hill <demarcushill20@gmail.com>
+Date:   Fri Feb 10 10:41:48 2023 -0600
+
+    answered the first question.
+
+[33mcommit ad89ca3fb8ec12e95ecd3aa84279fcdf28f6d3cb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Keiran Kozlowski <keiran.kozlowski@bloomtech.com>
+Date:   Wed Jul 20 15:43:57 2022 -0400
+
+    returned to default state, got rid of answered question
+
+[33mcommit 8f932646049205484a0e9f284966248701bf9212[m
+Author: Keiran Kozlowski <keiran.kozlowski@bloomtech.com>
+Date:   Tue Jul 19 13:33:13 2022 -0400
+
+    answered q1
+
+[33mcommit bdf1407de6997ed7efc6462835bd79ab737abe00[m
+Author: Keiran Kozlowski <keiran.kozlowski@bloomtech.com>
+Date:   Tue May 10 18:11:04 2022 -0400
+
+    updated to default
+
+[33mcommit 95376c227952bc0a06f1ddd4bd3b5e5b8e2291e4[m
+Author: Keiran Kozlowski <keiran.kozlowski@bloomtech.com>
+Date:   Fri May 6 11:28:51 2022 -0400
+
+    answered the first question and added an empty text file
+
+[33mcommit 35c8237c540b78b1113cef24a7982ebc18a855bf[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:28:01 2022 -0500
+
+    Update README.md
+
+[33mcommit 176be7e92e79bf9fe5abe6537c789abfe0729d2d[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:27:18 2022 -0500
+
+    Update pc.md
+
+[33mcommit d70a7ecf33c085fc9a4a5ffadc5f376e7c9b3aa5[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:27:03 2022 -0500
+
+    Update mac.md
+
+[33mcommit 559e1fa51f9052f48fa33a5afcdc6d486a143037[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:26:01 2022 -0500
+
+    Update mac.md
+
+[33mcommit e646fc4f405254fb90126f027e6825ebafc87e48[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:25:04 2022 -0500
+
+    Update pc.md
+
+[33mcommit b6351351e0ad1ac533594fa9fcbd556794483b26[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:19:53 2022 -0500
+
+    Update README.md
+
+[33mcommit c54bdf96a2ca68f4698258070e53eaef01fc2bc1[m
+Author: Keiran <keirankozlowski@gmail.com>
+Date:   Sun Feb 6 19:17:30 2022 -0500
+
+    Update README.md
+
+[33mcommit b97382197c5c3993e977ed34192b247d7e1e5dec[m
+Merge: 9e0bbc0 20224e6
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Jan 10 13:52:49 2022 -0500
+
+    Merge pull request #1518 from bloominstituteoftechnology/janLaunch
+    
+    Jan launch
+
+[33mcommit 20224e6bcaa5512ac7acdfe3f8e175ea30039511[m
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Fri Dec 3 13:53:57 2021 -0500
+
+    finished project for jan launch`
+
+[33mcommit db7e8474bfd968ec9563cc7c4e7f2a44e38679a6[m
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Fri Dec 3 11:47:55 2021 -0500
+
+    added set up tasks for mac and pc
+
+[33mcommit f144d020fdf34d8ab04b16241e15106e81336e09[m
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Fri Dec 3 10:20:28 2021 -0500
+
+    fixed links
+
+[33mcommit dcdb5ac30ca710c01cf9292667da0de74a88a3d0[m
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Fri Dec 3 10:19:09 2021 -0500
+
+    started mac checklist
+
+[33mcommit 9e0bbc01923bd3f137bc154730fed17566d13bd2[m
+Author: Bob Lauer <bob@lambdaschool.com>
+Date:   Tue Nov 16 16:12:48 2021 -0600
+
+    BloomTech
+
+[33mcommit 26a3a4da2f5cf31792d7cfbdcb3eac2349464c63[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Fri Oct 29 12:18:53 2021 -0400
+
+    Update README.md
+    
+    removed last two stretch goals
+
+[33mcommit 834294edf31d3cb249caa0facb646868147d4ae7[m
+Author: aus10allred <64806674+aus10allred@users.noreply.github.com>
+Date:   Wed Feb 24 00:07:42 2021 -0700
+
+    Update README.md
+    
+    typos
+
+[33mcommit 78f022e03589b79f3e0b1c49626a23e713976fa7[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Fri Sep 25 17:46:17 2020 -0400
+
+    Update README.md
+    
+    removed mention of TLs from gitflow
+
+[33mcommit 58c1080ad860ef35148640c10a7706e46b3e242a[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Sun Aug 30 10:39:31 2020 -0700
+
+    Update README.md
+
+[33mcommit 08bb731ed9ca455cab98ce2c39eb0b5b26a3a9d9[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Tue Jun 16 08:32:46 2020 -0700
+
+    Update README.md
+
+[33mcommit 65d25d9f6bd49e7229734f4c012c5337cb57aa82[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Fri May 29 15:01:17 2020 -0700
+
+    Add Exit Ticket
+
+[33mcommit 88a1fe9519434ee66ac2be75de19a2dd19cd187d[m
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Tue Oct 29 15:45:26 2019 -0400
+
+    updated readme file to reflect github being taught on day 2
+
+[33mcommit 771fde00c7df42bbd620e82f1f5add7938370935[m
+Author: Rodrigo Graça <1134310+rodrigograca31@users.noreply.github.com>
+Date:   Sat Oct 5 22:51:32 2019 +0100
+
+    Fixed typos (#424)
+
+[33mcommit 4a970fb25ffce2b0f84610a6ba941cfca7538669[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Tue Aug 13 13:53:43 2019 +0200
+
+    change PM to TL in readme
+
+[33mcommit 934556db47a4e0688e42eda57528dbaa126e63fe[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 17:22:34 2019 -0600
+
+    Have fun!
+
+[33mcommit 238a427a75b6c59631d43c7e64d13de7611af00c[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 17:18:12 2019 -0600
+
+    Have fun!
+
+[33mcommit 5dd02449f9fc4dea31d5bb5eff4c1458d9536535[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 17:16:36 2019 -0600
+
+    Have fun!
+
+[33mcommit a5122a6350a0c89f14dd312b77e824f41ac8548b[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 17:16:13 2019 -0600
+
+    Have fun!
+
+[33mcommit 2b521720b073db73521618c6bc370d93e60d5a7e[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:49:05 2019 -0600
+
+    Have fun!
+
+[33mcommit 580d3afb9c385fc21df336ac84ac14ad377e48dd[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:39:22 2019 -0600
+
+    Have fun!
+
+[33mcommit 6cdf8f935b3f20cceab9a6d4f29b54bf04212085[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:38:40 2019 -0600
+
+    Have fun!
+
+[33mcommit 5c9fef9c8b93dbb8675769f35e40feec63993793[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:37:57 2019 -0600
+
+    Have fun!
+
+[33mcommit 6129a44e09607f23041bd5c4cdd64645748a4ef4[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:34:05 2019 -0600
+
+    Fixed link markdown
+
+[33mcommit 6820c2b52416f18bbf2fe72a70330a582270da97[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:33:23 2019 -0600
+
+    Added new instructions
+
+[33mcommit 27b900ab4fc21ac05e2d33a5d3e9fb57eb9d11b3[m
+Author: Daniel Frehner <dfrehner1@gmail.com>
+Date:   Wed Mar 27 16:27:39 2019 -0600
+
+    Initial commit

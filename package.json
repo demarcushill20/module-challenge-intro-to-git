@@ -1,0 +1,19 @@
+{
+  "name": "module-challenge-intro-to-git",
+  "version": "1.0.0",
+  "description": "Welcome to Day 1 at BloomTech! Today we are going to spend some time setting up your computer and learning the tools that you will be using to complete this program. Just like your first day at a dev job, you will need to get your environment set up to build and run your code. Before you are able to complete any of these steps, you will need to install all [required programs](https://www.notion.so/bloomtech/4da087ea26dd441bbc8030198811150d?v=5c67662450d14d64b0b2b6d32b841fee) then set up your SSH key and attach it to your GitHub account. For the SSH key, please watch the video on the [BloomTech Git Workflow](https://bloomtech.notion.site/bloomtech/BloomTech-Git-Flow-Step-by-step-269f68ae3bf64eb689a8328715a179f9) to see how to do that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demarcushill20/module-challenge-intro-to-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demarcushill20/module-challenge-intro-to-git/issues"
+  },
+  "homepage": "https://github.com/demarcushill20/module-challenge-intro-to-git#readme"
+}
